@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=IKT
+Comment=IKT P2P Cryptocurrency
+Comment[fr]=IKT, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=IKT, eşten eşe kriptografik sanal para birimi
+Exec=innoket-qt %u
+Terminal=false
+Type=Application
+Icon=innoket128
+MimeType=x-scheme-handler/innoket;
+Categories=Office;Finance;
